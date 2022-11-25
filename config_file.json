@@ -1,0 +1,24 @@
+{
+  "config": {
+    "app_version": 1,
+    "message_title": "",
+    "message_link": ""
+  },
+  "ads": {
+    "status": true,
+    "app_id": "",
+    "banner": "",
+    "native": "",
+    "interstitial": ""
+  },
+  "servers": [
+    {
+      "server name": "USA-New York",
+      "server link": "vmess://eyJhZGQiOiI1LjE2MS4xMzUuMjAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjlhNzk5MjktMjQ1OS00OGIzLWI1NWEtYmUwZGFjYWYyMGEyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6InYycmF5IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIgfQ=="
+    },
+    {
+      "server name": "France-Paris",
+      "server link": "vmess://eyJhZGQiOiI1LjE2MS4xMzUuMjAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjlhNzk5MjktMjQ1OS00OGIzLWI1NWEtYmUwZGFjYWYyMGEyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6InYycmF5IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIgfQ=="
+    }
+  ]
+}
