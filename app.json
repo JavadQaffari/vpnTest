@@ -1,24 +1,15 @@
 {
-  "config": {
-    "app_version": 1,
-    "message_title": "",
-    "message_link": ""
-  },
-  "ads": {
-    "status": true,
-    "app_id": "",
-    "banner": "",
-    "native": "",
-    "interstitial": ""
-  },
-  "servers": [
-    {
-      "server name": "USA-New York",
-      "server link": "vmess://eyJhZGQiOiI1LjE2MS4xMzUuMjAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjlhNzk5MjktMjQ1OS00OGIzLWI1NWEtYmUwZGFjYWYyMGEyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6InYycmF5IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIgfQ=="
-    },
-    {
-      "server name": "France-Paris",
-      "server link": "vmess://eyJhZGQiOiI1LjE2MS4xMzUuMjAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjlhNzk5MjktMjQ1OS00OGIzLWI1NWEtYmUwZGFjYWYyMGEyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6InYycmF5IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIgfQ=="
-    }
+  "ads":"true",
+  "update":[{
+    "version":"2.8.1600",
+    "title":"This app is now Open Source",
+    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
+    "size":"https://git.io/JeY69"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"}
+  ],
+  "free":[
+  {"id":2, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"164.92.117.26","active":"true","signal":"a"}
   ]
 }
