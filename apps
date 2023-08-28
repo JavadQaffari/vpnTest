@@ -1,0 +1,20 @@
+{
+  "servers": [
+ {   
+        "app_name": "test",
+	"directory": "testvpn"
+    },
+ {   
+        "app_name": "test2",
+	"directory": "testvpn"
+    },
+ {   
+        "app_name": "test3",
+	"directory": "testvpn"
+    },
+ {   
+        "app_name": "test4",
+	"directory": "testvpn"
+    },
+  ]
+}
