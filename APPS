@@ -1,5 +1,5 @@
 {
-  "servers": [
+  "applications": [
  {   
         "app_name": "test",
 	"directory": "testvpn"
