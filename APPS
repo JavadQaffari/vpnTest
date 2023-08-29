@@ -2,19 +2,19 @@
   "applications": [
  {   
         "app_name": "test",
-	"directory": "testvpn"
+	"directory": "test"
     },
  {   
-        "app_name": "test2",
-	"directory": "testvpn"
+        "app_name": "jetvpn",
+	"directory": "jet"
     },
  {   
-        "app_name": "test3",
-	"directory": "testvpn"
+        "app_name": "nitrovpn",
+	"directory": "nitro"
     },
  {   
-        "app_name": "test4",
-	"directory": "testvpn"
+        "app_name": "pandavpn",
+	"directory": "panda"
     }
   ]
 }
