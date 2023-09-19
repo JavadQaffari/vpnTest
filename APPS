@@ -19,6 +19,10 @@
  {   
         "app_name": "panda",
 	"directory": "PANDA2"
+    },
+ {   
+        "app_name": "panda",
+	"directory": "SHIELD"
     }
   ]
 }
