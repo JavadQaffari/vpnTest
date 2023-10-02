@@ -5,23 +5,11 @@
 	"directory": "test"
     },
  {   
-        "app_name": "jetvpn",
-	"directory": "JET2"
-    },
- {   
-        "app_name": "nitrovpn",
-	"directory": "NITRO2"
-    },
- {   
         "app_name": "panda3",
 	"directory": "PANDA3"
     },
  {   
-        "app_name": "panda",
-	"directory": "PANDA2"
-    },
- {   
-        "app_name": "panda",
+        "app_name": "SHIELD",
 	"directory": "SHIELD"
     }
   ]
