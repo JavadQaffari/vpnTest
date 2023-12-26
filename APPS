@@ -5,6 +5,9 @@
 	"directory": "test"
     },
  {   
+        "app_name": "panda",
+	"directory": "PANDA"
+    },{   
         "app_name": "panda3",
 	"directory": "PANDA3"
     },{   
