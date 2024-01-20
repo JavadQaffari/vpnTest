@@ -9,6 +9,10 @@
 	"directory": "SHIELD"
     },
 {   
+        "app_name": "ONE",
+	"directory": "ONE"
+    },
+{   
         "app_name": "CAT",
 	"directory": "CAT"
     },
