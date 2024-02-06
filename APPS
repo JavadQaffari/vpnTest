@@ -23,6 +23,10 @@
  {   
         "app_name": "test",
 	"directory": "test"
+    },
+{   
+        "app_name": "testhossein",
+	"directory": "testhossein"
     }
   ]
 }
