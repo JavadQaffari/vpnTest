@@ -5,22 +5,6 @@
 	"directory": "SHIELD2"
     },
  {   
-        "app_name": "SHIELD",
-	"directory": "SHIELD"
-    },
-{   
-        "app_name": "ONE",
-	"directory": "ONE"
-    },
-{   
-        "app_name": "CAT",
-	"directory": "CAT"
-    },
- {   
-        "app_name": "panda",
-	"directory": "PANDA"
-    },
- {   
         "app_name": "test",
 	"directory": "test"
     },
